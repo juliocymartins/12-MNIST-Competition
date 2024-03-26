@@ -22,6 +22,8 @@ The evaluation of the project on Kaggle can be viewed in the [submission_kaggle.
 
 Competition Link: [Digit Recognizer](https://www.kaggle.com/competitions/digit-recognizer/overview).
 
+Competition Score: 99.11%
+
 ## Required Libraries
 
 To run this project, ensure you have the following packages installed:
