@@ -18,7 +18,7 @@ The project involves the following stages:
 - **Goal:** The primary objective is to correctly identify handwritten digits from the test set.
 - **Metric:** Evaluation is based on the categorization accuracy of predictions, measured as the percentage of images correctly classified. 
 
-The evaluation of the project on Kaggle can be viewed in the submission_kaggle.png file.
+The evaluation of the project on Kaggle can be viewed in the [submission_kaggle.png](https://github.com/juliocymartins/MNIST-Competition-EN/blob/main/submission_kaggle.png) file.
 
 Competition Link: [Digit Recognizer](https://www.kaggle.com/competitions/digit-recognizer/overview).
 
