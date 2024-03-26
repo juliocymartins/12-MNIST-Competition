@@ -14,7 +14,7 @@ The project involves the following stages:
 
 4. **Final Conclusions:** Concluding the project by visualizing model predictions and generating a submission file for evaluation in the competition.
 
-5. ### Competition Evaluation
+### Competition Evaluation
 - **Goal:** The primary objective is to correctly identify handwritten digits from the test set.
 - **Metric:** Evaluation is based on the categorization accuracy of predictions, measured as the percentage of images correctly classified. 
 
