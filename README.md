@@ -20,6 +20,8 @@ The project involves the following stages:
 
 The evaluation of the project on Kaggle can be viewed in the submission_kaggle.png file.
 
+Competition Link: [Digit Recognizer](https://www.kaggle.com/competitions/digit-recognizer/overview).
+
 ## Required Libraries
 
 To run this project, ensure you have the following packages installed:
