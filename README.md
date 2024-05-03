@@ -34,7 +34,6 @@ Competition Score: 99.11%
 
 # How to Use
 - Clone the repository to your local machine.
-- Ensure that the raw data is located in the same directory as the notebook.
 - Install the required packages using the provided command.
 - Run the Jupyter Notebook or Python scripts in the respective chapters to execute the code.
 
