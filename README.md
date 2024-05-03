@@ -24,7 +24,7 @@ Competition Link: [Digit Recognizer](https://www.kaggle.com/competitions/digit-r
 
 Competition Score: 99.11%
 
-## Required libraries
+# Required libraries
 
 To run this project, ensure you have the following packages installed:
 
