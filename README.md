@@ -24,7 +24,7 @@ Competition Link: [Digit Recognizer](https://www.kaggle.com/competitions/digit-r
 
 Competition Score: 99.11%
 
-## Required Libraries
+## Required libraries
 
 To run this project, ensure you have the following packages installed:
 
@@ -35,11 +35,21 @@ To run this project, ensure you have the following packages installed:
 - tensorflow
 - keras
 
+# How to Use
+- Clone the repository to your local machine.
+- Ensure that the raw data is located in the same directory as the notebook.
+- Install the required packages using the provided command.
+- Run the Jupyter Notebook or Python scripts in the respective chapters to execute the code.
+
+# Repository
+- models: Contains the final model saved as a pickle file.
+- visualizations: Contains graphs and plots.
+- mnist_project.ipynb: Jupyter Notebook file for mnist project.
+- submission.csv: File generated for submission to the Kaggle competition.
+- submission_kaggle.png: Screenshot of the score achieved on Kaggle.
+
 # Author
 Julio Cesar Yamashita Martins
 
 # E-mail
 yamashitajulio@gmail.com
-
-
-
